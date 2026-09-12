@@ -1,2 +1,2 @@
-def main() -> None:
-    print("Hello from cx-assist!")
+"""CX Assist deployable application package."""
+

@@ -1,0 +1,17 @@
+boto3
+fastapi
+httpx
+langchain
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-openai
+langgraph
+pandas
+pydantic
+python-dotenv
+requests
+scikit-learn
+streamlit
+uvicorn
+
