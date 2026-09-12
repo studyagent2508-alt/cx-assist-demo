@@ -1,0 +1,8 @@
+interaction_id,case_id,interaction_at,channel,direction,agent_id,summary
+INT-8001,CASE-3021,2026-09-03T10:20:00Z,Email,Inbound,AGT-101,Customer requested credit for three days of vehicle downtime.
+INT-8002,CASE-3021,2026-09-04T11:15:00Z,Phone,Outbound,AGT-101,Agent confirmed service dates and advised that billing review was pending.
+INT-8003,CASE-3022,2026-09-07T14:10:00Z,Phone,Inbound,AGT-102,Customer reported two ACH withdrawals of the same amount.
+INT-8004,CASE-3023,2026-09-09T09:30:00Z,Chat,Inbound,AGT-103,Customer asked whether a routine inspection removes the monthly charge.
+INT-8005,CASE-3024,2026-09-11T12:00:00Z,Email,Inbound,AGT-104,Customer provided wire transaction reference TXN-DEMO-5004.
+INT-8006,CASE-3025,2026-08-22T20:05:00Z,Phone,Inbound,AGT-105,Customer called after waiting fifty minutes for an update.
+INT-8007,CASE-3025,2026-08-22T21:20:00Z,Phone,Inbound,AGT-106,Customer called again because estimated arrival time had not been communicated.

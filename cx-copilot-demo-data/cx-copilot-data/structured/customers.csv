@@ -1,0 +1,6 @@
+customer_id,customer_name,segment,primary_contact,email,phone,city,state,account_status
+CUST-1001,Northstar Retail Logistics,Enterprise,Ava Carter,ava.carter@example.test,+1-555-0101,Columbus,OH,Active
+CUST-1002,Greenline Food Distribution,Enterprise,Noah Bennett,noah.bennett@example.test,+1-555-0102,Indianapolis,IN,Active
+CUST-1003,Summit Building Supply,Commercial,Mia Collins,mia.collins@example.test,+1-555-0103,Nashville,TN,Active
+CUST-1004,Blue Harbor Equipment,Commercial,Liam Foster,liam.foster@example.test,+1-555-0104,Richmond,VA,Active
+CUST-1005,Redwood Regional Couriers,Small Business,Emma Reed,emma.reed@example.test,+1-555-0105,Pittsburgh,PA,Review

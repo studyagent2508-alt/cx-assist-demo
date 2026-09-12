@@ -1,0 +1,6 @@
+unit_number,customer_id,vin,vehicle_type,make,model,model_year,operational_status,current_location,odometer_miles
+UNIT-4521,CUST-1001,DEMO1VIN000000001,Day Cab,Freightliner,Cascadia,2024,In Service,Columbus OH,48220
+UNIT-4522,CUST-1002,DEMO1VIN000000002,Box Truck,International,MV,2023,In Service,Indianapolis IN,36750
+UNIT-4523,CUST-1003,DEMO1VIN000000003,Cargo Van,Ford,Transit,2024,In Service,Nashville TN,21440
+UNIT-4524,CUST-1004,DEMO1VIN000000004,Sleeper Tractor,Volvo,VNL,2022,In Service,Richmond VA,92710
+UNIT-4525,CUST-1005,DEMO1VIN000000005,Box Truck,Hino,L6,2023,Limited Service,Pittsburgh PA,55380

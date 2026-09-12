@@ -1,0 +1,48 @@
+# Core agent frameworks
+langchain
+langgraph
+langsmith
+langchain-community
+
+# Model providers
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-aws
+
+# AWS and S3
+boto3
+
+# Data processing
+pandas
+
+# Configuration
+python-dotenv
+
+# Structured interface
+streamlit
+
+# API and validation
+fastapi
+uvicorn
+pydantic
+
+# Testing
+pytest
+
+# notebook support
+ipykernel
+jupyter
+
+# ML Lib
+scikit-learn
+
+#apis
+fastapi
+uvicorn
+httpx
+
+#streamlit
+streamlit
+requests
+pandas

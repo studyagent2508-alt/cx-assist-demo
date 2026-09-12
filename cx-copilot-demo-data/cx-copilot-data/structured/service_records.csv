@@ -1,0 +1,6 @@
+service_id,unit_number,customer_id,service_type,opened_at,completed_at,downtime_hours,service_location,work_summary,status
+SRV-7001,UNIT-4521,CUST-1001,Unscheduled Repair,2026-08-10T08:30:00Z,2026-08-13T14:30:00Z,78,Columbus Service Center,Transmission control module replaced,Completed
+SRV-7002,UNIT-4522,CUST-1002,Preventive Maintenance,2026-08-18T09:00:00Z,2026-08-18T15:00:00Z,6,Indianapolis Service Center,Scheduled preventive maintenance completed,Completed
+SRV-7003,UNIT-4523,CUST-1003,Inspection,2026-08-21T10:00:00Z,2026-08-21T12:00:00Z,2,Nashville Service Center,Safety inspection completed,Completed
+SRV-7004,UNIT-4524,CUST-1004,Preventive Maintenance,2026-08-07T08:00:00Z,2026-08-07T16:00:00Z,8,Richmond Service Center,Oil filters and brake inspection completed,Completed
+SRV-7005,UNIT-4525,CUST-1005,Roadside Repair,2026-08-22T19:15:00Z,2026-08-23T08:15:00Z,13,Pittsburgh PA,Battery and alternator replaced,Completed

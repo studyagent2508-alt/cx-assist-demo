@@ -1,0 +1,6 @@
+case_id,customer_id,unit_number,invoice_id,opened_at,channel,issue_type,priority,status,subject,description
+CASE-3021,CUST-1001,UNIT-4521,INV-1047,2026-09-03T10:20:00Z,Email,Billing Dispute,High,Open,Charge during vehicle downtime,Customer disputes full monthly charge because vehicle was unavailable during an unscheduled repair.
+CASE-3022,CUST-1002,UNIT-4522,INV-1050-DUP,2026-09-07T14:10:00Z,Phone,Duplicate Charge,High,Open,Duplicate monthly lease payment,Customer reports two charges for the same unit and billing period.
+CASE-3023,CUST-1003,UNIT-4523,INV-1055,2026-09-09T09:30:00Z,Chat,Billing Explanation,Normal,Open,Question about recurring rental charge,Customer asks why a normal monthly rental charge appeared after an inspection.
+CASE-3024,CUST-1004,UNIT-4524,INV-1060,2026-09-11T12:00:00Z,Email,Payment Reconciliation,High,Open,Payment made but invoice marked past due,Customer supplied a wire reference but the invoice remains past due.
+CASE-3025,CUST-1005,UNIT-4525,INV-1065,2026-08-24T15:45:00Z,Phone,Roadside Assistance,High,Escalated,Delayed roadside support,Customer reports delayed roadside communication and multiple contacts for the same breakdown.

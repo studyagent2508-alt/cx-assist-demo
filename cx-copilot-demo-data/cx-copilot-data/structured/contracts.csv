@@ -1,0 +1,6 @@
+contract_id,customer_id,unit_number,contract_type,start_date,end_date,monthly_rate,status,billing_frequency
+CTR-2001,CUST-1001,UNIT-4521,Full Service Lease,2026-01-01,2028-12-31,4800.00,Active,Monthly
+CTR-2002,CUST-1002,UNIT-4522,Full Service Lease,2025-07-01,2028-06-30,4200.00,Active,Monthly
+CTR-2003,CUST-1003,UNIT-4523,Long Term Rental,2026-04-01,2027-03-31,3100.00,Active,Monthly
+CTR-2004,CUST-1004,UNIT-4524,Full Service Lease,2025-01-01,2027-12-31,5200.00,Active,Monthly
+CTR-2005,CUST-1005,UNIT-4525,Long Term Rental,2026-05-01,2027-04-30,3400.00,Active,Monthly
